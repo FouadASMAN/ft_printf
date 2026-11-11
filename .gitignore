@@ -1,0 +1,16 @@
+# C files
+main.c
+
+# Compiled object files
+*.o
+
+# Compiled static libraries
+*.a
+
+# Executables / Test binaries
+a.out
+test
+
+# Swap files
+*.swp
+*.swo
